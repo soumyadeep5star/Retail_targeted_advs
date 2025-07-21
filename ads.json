@@ -1,0 +1,125 @@
+[
+  {
+    "gender": "Male",
+    "age_group": "(0-2)",
+    "ad_image": "ads/men_babies.jpg",
+    "qr_code": "https://fashionstore.com/men0-2"
+  },
+  {
+    "gender": "Female",
+    "age_group": "(0-2)",
+    "ad_image": "ads/women_babies.jpg",
+    "qr_code": "https://fashionstore.com/women0-2"
+  },
+  {
+    "gender": "Male",
+    "age_group": "(4-6)",
+    "ad_image": "ads/men_kids.jpg",
+    "qr_code": "https://fashionstore.com/men4-6"
+  },
+  {
+    "gender": "Female",
+    "age_group": "(4-6)",
+    "ad_image": "ads/women_kids.jpg",
+    "qr_code": "https://fashionstore.com/women4-6"
+  },
+  {
+    "gender": "Male",
+    "age_group": "(8-12)",
+    "ad_image": "ads/men_preteens.jpg",
+    "qr_code": "https://fashionstore.com/men8-12"
+  },
+  {
+    "gender": "Female",
+    "age_group": "(8-12)",
+    "ad_image": "ads/women_preteens.jpg",
+    "qr_code": "https://fashionstore.com/women8-12"
+  },
+  {
+    "gender": "Male",
+    "age_group": "(15-20)",
+    "ad_image": "ads/men_teen.jpg",
+    "qr_code": "https://fashionstore.com/men15-20"
+  },
+  {
+    "gender": "Female",
+    "age_group": "(15-20)",
+    "ad_image": "ads/women_teen.jpg",
+    "qr_code": "https://fashionstore.com/women15-20"
+  },
+  {
+    "gender": "Male",
+    "age_group": "(25-32)",
+    "ad_image": "ads/men_young.jpg",
+    "qr_code": "https://fashionstore.com/men25-32"
+  },
+
+  {
+    "gender": "Female",
+    "age_group": "(25-32)",
+    "ad_image": "ads/women_young1.jpg",
+    "qr_code": "https://fashionstore.com/women25-32-2"
+  },
+  
+  {
+    "gender": "Female",
+    "age_group": "(25-32)",
+    "ad_image": "ads/women_young2.jpg",
+    "qr_code": "https://fashionstore.com/women25-32-2"
+  },
+  
+  {
+    "gender": "Female",
+    "age_group": "(25-32)",
+    "ad_image": "ads/women_young3.jpg",
+    "qr_code": "https://fashionstore.com/women25-32-2"
+  },
+  {
+    "gender": "Male",
+    "age_group": "(38-43)",
+    "ad_image": "ads/men_adult.jpg",
+    "qr_code": "https://fashionstore.com/men38-43"
+  },
+  {
+    "gender": "Female",
+    "age_group": "(38-43)",
+    "ad_image": "ads/women_adult1.jpg",
+    "qr_code": "https://fashionstore.com/women38-43"
+  },
+   {
+    "gender": "Female",
+    "age_group": "(38-43)",
+    "ad_image": "ads/women_adult2.jpg",
+    "qr_code": "https://fashionstore.com/women38-43"
+  },
+   {
+    "gender": "Female",
+    "age_group": "(38-43)",
+    "ad_image": "ads/women_adult3.jpg",
+    "qr_code": "https://fashionstore.com/women38-43"
+  },
+  {
+    "gender": "Male",
+    "age_group": "(48-53)",
+    "ad_image": "ads/men_mature.jpg",
+    "qr_code": "https://fashionstore.com/men48-53"
+  },
+  {
+    "gender": "Female",
+    "age_group": "(48-53)",
+    "ad_image": "ads/women_mature.jpg",
+    "qr_code": "https://fashionstore.com/women48-53"
+  },
+  {
+    "gender": "Male",
+    "age_group": "(60-100)",
+    "ad_image": "ads/men_senior.jpg",
+    "qr_code": "https://fashionstore.com/men60plus"
+  },
+  {
+    "gender": "Female",
+    "age_group": "(60-100)",
+    "ad_image": "ads/women_senior.jpg",
+    "qr_code": "https://fashionstore.com/women60plus"
+  }
+]
